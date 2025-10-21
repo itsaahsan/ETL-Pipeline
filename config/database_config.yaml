@@ -1,0 +1,13 @@
+development:
+  host: localhost
+  database: mydb
+  user: user
+  password: pass
+  port: 5432
+
+production:
+  host: your-production-host
+  database: your-db-name
+  user: your-username
+  password: your-password
+  port: 5432
