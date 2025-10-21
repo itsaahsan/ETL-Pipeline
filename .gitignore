@@ -1,0 +1,19 @@
+# Data files
+data/
+!data/raw/
+!data/processed/
+
+# Virtual environments
+venv/
+env/
+.env
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
